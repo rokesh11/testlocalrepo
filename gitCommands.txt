@@ -1,0 +1,9 @@
+git class
+
+1. git config:
+git config --global user.name "rokesh11"
+git config --global user.email "rokesh1129@gmail.com"
+
+git init
+
+
